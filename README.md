@@ -16,9 +16,8 @@ A simple command-line tool built with **Node.js**, **Inquirer.js**, and **qr-ima
 
 2. Install dependencies:
    ```sh
-    npm install
-
-
+   npm install
+   npm i inquirer qr-image
 
 Usage 🚀
 Run the script using:
